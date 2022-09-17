@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides sample exams, study topics, and review notes for
+  course exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
